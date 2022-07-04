@@ -1,7 +1,7 @@
 {
-  "bob": {
-    "sounds": [
-      "mcitems:bob"
-    ]
-  }
+    "bob": {
+        "sounds": [
+            "mcitems:bob"
+        ]
+    }
 }

@@ -1,6 +1,6 @@
 {
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "mcitems:item/bob_dobbs"
-  }
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "mcitems:item/bob_dobbs"
+    }
 }
